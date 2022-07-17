@@ -26,3 +26,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Markdown dosyasına projenin resmini koyun
+
+![Proje Resmi](https://github.com/kurutmazataman/kodluyoruzilkrepo/blob/main/img/ProjeResmi.png)
